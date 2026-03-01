@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ReoNa 『ANIMA -Naked Style.-』 -Music Video-",
+  "base_artist": "ReoNa",
+  "createdAt": "2026-03-01T11:02:14.425913Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ANIMA -Naked Style.-",
+      "artist": "ReoNa",
+      "has_synced": false,
+      "path": "select/pl_01_ANIMA_-Naked_Style.-_ReoNa.txt"
+    }
+  ]
+}
